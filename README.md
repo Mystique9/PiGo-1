@@ -1,5 +1,4 @@
-PiGo
-====
+![PiGo](Demo/PiGo_Logo_1.gif)
 
 PiGo repository
 
