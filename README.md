@@ -10,10 +10,10 @@ The following install process is tailored for official distribution of
 Raspbian for Raspberry Pi. Install the Raspbian as usual.
 To download the PiGo install, type the following commands in the 
 command line (ssh access):
-'''bash
+"""bash
   mkdir PiGo
   git clone https://github.com/designspark/PiGo.git
-'''
+"""
 
 Then, to install the PiGo library, type
 '''Bash
